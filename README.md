@@ -15,3 +15,7 @@ https://www.tinkercad.com/things/9ygR4qt1Uxi-arduino-cpt/editel?sharecode=gmU6vi
 1. If given more time, LED indicator would light up sequentially and then flash red in the middle as distance changes. This was delayed due to interconnect and tinkercad autosave issues.
 2. LCD is connected to main arduino since it displays the most important data to the user and is the most latency-sensitive information. This improves reliability and safety for the system.
 3. If given the parts, i would incorporate a permanent storage SD card reader to timestamp and save critical distances and the distance readings before and after. This would be used for collision data collection.
+
+# Outstanding Bugs:
+
+1. output arduino does not detect all three distance digits through the interconnect, prompting the incorrect LED/Buzzer method.

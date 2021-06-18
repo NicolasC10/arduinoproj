@@ -1,6 +1,5 @@
-# arduinoproj
+# ArduinoProj
 Arduino CPT (TER4M1)
-
 Repo for code backup, annotations, and TinkerCAD link
 
 # Link

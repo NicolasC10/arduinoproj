@@ -2,6 +2,9 @@
 Arduino CPT (TER4M1)
 Repo for code backup, annotations, and TinkerCAD link
 
+arduino_cpt1 is the code for the output processor
+arduino_cpt2 is the code for the data processor
+
 # Link
 https://www.tinkercad.com/things/9ygR4qt1Uxi-arduino-cpt/editel?sharecode=gmU6vivAuLOO19DqDWojV-h8KZxD2X3rLbY9I7a_FBE
 
